@@ -1,2 +1,3 @@
-# blog-card
-Blog Card Component designed using React
+# Blog Card component React + TypeScript + Vite + Tailwind
+
+Project details: https://www.greatfrontend.com/projects/challenges/blog-card
