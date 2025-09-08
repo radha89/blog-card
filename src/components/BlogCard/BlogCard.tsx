@@ -18,7 +18,7 @@ export function BlogCard() {
 						target="_blank"
 					>
 						Read more
-						<img src="/arrowIcon.svg" alt="arrow right icon" />
+						<img src="../arrowIcon.svg" alt="arrow right icon" />
 					</a>
 				</div>
 			</div>
