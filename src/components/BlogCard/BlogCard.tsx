@@ -1,3 +1,5 @@
+import ArrowIcon from '../../assets/arrowIcon.svg';
+
 export function BlogCard() {
 	return (
 		<>
@@ -18,7 +20,7 @@ export function BlogCard() {
 						target="_blank"
 					>
 						Read more
-						<img src="../arrowIcon.svg" alt="arrow right icon" />
+						<img src={ArrowIcon} alt="arrow right icon" />
 					</a>
 				</div>
 			</div>
