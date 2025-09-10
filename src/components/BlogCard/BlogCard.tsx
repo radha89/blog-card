@@ -5,8 +5,6 @@ import { BlogCardSkeleton } from './BlogCardSkeleton';
 export function BlogCard() {
   const { isLoading, data } = useGetBlogContent();
 
-  console.log(isLoading);
-
   if (isLoading) return <BlogCardSkeleton />;
 
   // TODO: here we would return a loading state
